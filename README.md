@@ -91,16 +91,6 @@ Absolutely! Here's your **ultra-detailed Data Science Roadmap** for intermediate
 * Merging/Joining
 
   * concat, merge, join
- Mini Project:
-Write a Python script to analyze a CSV dataset (e.g., Titanic dataset):
-
-Read CSV with Pandas
-
-Show basic stats (mean age, survival rate)
-
-Filter rows (e.g., females only)
-
-Save filtered data to new CSV
 
 ---
 
