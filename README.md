@@ -324,12 +324,4 @@ Absolutely! Here's your **ultra-detailed Data Science Roadmap** for intermediate
 
 ---
 
-## ✅ Export Options:
 
-Want this roadmap in:
-
-* 📄 PDF
-* 📋 Notion Page
-* 📆 Google Calendar
-* 🗂️ Trello Board
-  Let me know and I’ll generate it!
